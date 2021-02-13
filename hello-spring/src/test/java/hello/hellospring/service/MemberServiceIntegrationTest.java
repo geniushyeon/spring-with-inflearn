@@ -18,7 +18,7 @@ class MemberServiceIntegrationTest {
     @Autowired
     MemberService memberService;
     @Autowired
-    MemberRepository memoryMemberRepository;
+    MemberRepository memberRepository;
 
 
     // 다음 테스트를 위해 DB에 있던 데이터를 지우는 작업인데, 이제 필요없으므로 지우기
