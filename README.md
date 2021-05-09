@@ -87,3 +87,14 @@ inflearn에서 수강하는 Spring 강의 실습 정리
 2. 인터페이스 InitializingBean, DisposableBean
 3. 빈 등록 초기화, 소멸 메서드
 4. 어노테이션 @PostConstruct, @PreDestroy
+
+### 2021.05.09
+- [빈 스코프](TIL/20210509.md)
+1. 빈 스코프란?
+2. 프로토타입 스코프
+3. 프로토타입 스코프 - 싱글톤 빈과 함께 사용 시 문제점
+4. 프로토타입 스코프 - 싱글톤 빈과 함께 사용 시 Provider로 문제 해결
+5. 웹 스코프
+6. request 스코프 예제 만들기
+7. 스코프와 Provider
+8. 스코프와 프록시
